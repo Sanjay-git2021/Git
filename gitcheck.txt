@@ -1,0 +1,1 @@
+Adding a file "gitcheck.txt" from github to local git repository
