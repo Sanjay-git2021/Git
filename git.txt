@@ -1,0 +1,2 @@
+My first git and git Repository :)
+git and github
